@@ -1,0 +1,5 @@
+<webscript>
+  <shortname>Document list config dialogue</shortname>
+  <description>Renders the form used to select the folder to be shown in the dashlet</description>
+  <url>/extras/modules/dashlets/document-list-config</url>
+</webscript>

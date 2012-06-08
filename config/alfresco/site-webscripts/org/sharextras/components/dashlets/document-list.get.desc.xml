@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Document list dashlet</shortname>
+   <description>Displays a list of documents from a user-specified directory</description>
+   <family>dashlet</family>
+   <url>/extras/components/dashlets/document-list</url>
+</webscript>
